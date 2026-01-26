@@ -155,9 +155,9 @@ google-api-core[grpc]==2.26.0 \
     # via
     #   google-cloud-core
     #   google-cloud-spanner
-google-auth==2.41.1 \
-    --hash=sha256:754843be95575b9a19c604a848a41be03f7f2afd8c019f716dc1f51ee41c639d \
-    --hash=sha256:b76b7b1f9e61f0cb7e88870d14f6a94aeef248959ef6992670efee37709cbfd2
+google-auth==2.48.0 \
+    --hash=sha256:2e2a537873d449434252a9632c28bfc268b0adb1e53f9fb62afc5333a975903f \
+    --hash=sha256:4f7e706b0cd3208a3d940a19a822c37a476ddba5450156c3e6624a71f7c841ce
     # via
     #   google-api-core
     #   google-cloud-core
